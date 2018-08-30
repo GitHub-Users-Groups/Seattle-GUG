@@ -6,7 +6,7 @@ You can help us with the [open issues](https://github.com/GitHub-Users-Groups/Se
 
 ## Submitting changes
 
-Please send a [GitHub Pull Request to Seattle-GUG](https://github.com/GitHub-Users-Groups/Seattle-GUG/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).
+Please send a [GitHub Pull Request to Seattle-GUG](https://github.com/GitHub-Users-Groups/Seattle-GUG/pull/new/master) with a clear list of what you've done (read more about [pull requests](https://help.github.com/articles/about-pull-requests/)).
 
 ### How to commit
 
