@@ -1,4 +1,4 @@
-# SoCal-GitHub Users' Group
+# Seattle-GitHub Users' Group
 
 ## Goals:
 - Community Building around use of GitHub
@@ -9,12 +9,11 @@
 
 
 ## Upcoming Events
-- TBD
+- [September 11, 2018](events/1_September112018.md)
 
 
 ## Past Events
-- [July 25 @ Factual](events/2_July25.md)
-- [May 23 @ Factual](events/1_May23.md)
+- TBD
 
 ## Roles
  Here are some ways you can get involved.
@@ -33,9 +32,9 @@
 - No one-sided sales pitches.  Balanced product & solution reviews are OK.
 
 ## Venues
-- [Factual](venues/Factual.md)
+- [Expedia](venues/Expedia.md)
 
 
 ## Organizers
-- Ravi Gadhia -- [@ravigadhia](https://github.com/ravigadhia)
-- Jasmine Dahilig -- [@jazzyfresh](https://github.com/jazzyfresh)
+- Keith Krassin -- [@kkrassin](https://github.com/kkrassin)
+- Ted Hirtle -- [@hirtle](https://github.com/hirtle)
