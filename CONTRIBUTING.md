@@ -2,11 +2,11 @@
 
 Well, thank you if you are interested in contributing!
 
-You can help us with the [open issues](https://github.com/GitHub-Users-Groups/SoCal-GUG/issues?q=is%3Aopen+is%3Aissue), or directly submit improvements or new things.
+You can help us with the [open issues](https://github.com/GitHub-Users-Groups/Seattle-GUG/issues?q=is%3Aopen+is%3Aissue), or directly submit improvements or new things.
 
 ## Submitting changes
 
-Please send a [GitHub Pull Request to SoCal-GUG](https://github.com/GitHub-Users-Groups/SoCal-GUG/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).
+Please send a [GitHub Pull Request to Seattle-GUG](https://github.com/GitHub-Users-Groups/Seattle-GUG/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).
 
 ### How to commit
 
